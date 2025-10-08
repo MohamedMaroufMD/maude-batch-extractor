@@ -1,6 +1,0 @@
-# Example FDA MAUDE URLs for testing
-# Copy this file and add your own URLs, one per line
-
-https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfMAUDE/Detail.CFM?MDRFOI__ID=21944442&pc=HQL
-https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfMAUDE/Detail.CFM?MDRFOI__ID=21933846&pc=HQL
-https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfMAUDE/Detail.CFM?MDRFOI__ID=21934979&pc=HQL
